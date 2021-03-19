@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.me/github/profile?user_id=36482423)
+![](https://komarev.com/ghpvc/?username=DM4DS)
 <!--
 **DM4DS/DM4DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
