@@ -7,7 +7,7 @@
 - BMAcoffee: https://buymeacoff.ee/dm4ds
 - Twitter: https://twitter.com/HAM_DM4DS
 - Instagram: https://www.instagram.com/dm4ds/
-- Thingiverse: https://www.thingiverse.com/dm4ds/
+- Printables: https://www.printables.com/de/@DM4DS
 - QRZ.com: https://www.qrz.com/lookup/DM4DS
 
 
